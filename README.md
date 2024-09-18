@@ -8,6 +8,6 @@ This template provides a minimal example to get React working with Vite, Typescr
 
 ## Update dependencies
 
-`npm install -g npm-check-updates`
-`npm-check-updates -u`
+`npm install -g npm-check-updates`  
+`npm-check-updates -u`  
 `npm install`
